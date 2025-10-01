@@ -28,4 +28,4 @@ Use the predefined scripts in the `package.json` file to build and manage your p
 
 Join the CMU Trainspotters Discord at https://www.discord.com/eNrrW7w9Jk!
 
-Contact [af267](https://github.com/af267), @richard31415, or [jalenluorion](https://github.com/jalenluorion) for suggestions, questions, or anything else.
+Contact [af267](https://github.com/af267), [richard-31415](https://github.com/richard-31415), or [jalenluorion](https://github.com/jalenluorion) for suggestions, questions, or anything else.
